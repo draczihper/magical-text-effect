@@ -1,0 +1,23 @@
+{
+  "name": "magical-text-effect",
+  "version": "1.0.0",
+  "description": "A magical text effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draczihper/magical-text-effect.git"
+  },
+  "keywords": [
+    "text",
+    "effect"
+  ],
+  "author": "Drac Zihper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draczihper/magical-text-effect/issues"
+  },
+  "homepage": "https://github.com/draczihper/magical-text-effect#readme"
+}
