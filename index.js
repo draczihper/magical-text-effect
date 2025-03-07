@@ -1,5 +1,3 @@
-import magicText from "./script.js";
-
 let index = 0,
   interval = 1000;
 
@@ -25,6 +23,6 @@ for (const star of document.getElementsByClassName("magic-star")) {
   );
 }
 
-const magicTextEmpty = document.querySelector(".magic-text");
+const magicText = document.querySelector(".magic-text");
 
-export default magicTextEmpty;
+magicText.innerText = "full of wonders";
